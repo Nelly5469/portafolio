@@ -120,3 +120,17 @@ form {
 .upper-form{
     width: 100%;
 }
+
+.link-edu{
+    color: black;
+}
+.edu-year{
+    border: 1px solid rgb(191, 189, 189);
+    border-radius: 30px;
+    padding: 8px 15px;
+    display: inline-block;
+}
+
+hr{
+    margin: 30px 20px;
+}
