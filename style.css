@@ -87,7 +87,7 @@ body{
 .item{
     height: 70px;
     width: 70px;
-    border: 2px solid gray;
+    border: 2px solid black;
     border-radius: 50%;
 }
 
